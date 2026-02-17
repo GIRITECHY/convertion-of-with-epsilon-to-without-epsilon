@@ -1,0 +1,5 @@
+{
+  "name": "ε-NFA to NFA Converter",
+  "description": "An interactive tool for Theory of Computation students to convert Nondeterministic Finite Automata with epsilon transitions to standard NFAs using the closure-based algorithm.",
+  "requestFramePermissions": []
+}
